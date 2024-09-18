@@ -1,0 +1,77 @@
+q{
+    font-size: 30px; color: blue;
+}
+img{
+    width: 100px;
+}
+
+table,
+tr,
+th,
+td{
+border: 1px solid #ddd;
+}
+
+table {
+    margin-bottom: 20px;
+}
+
+ul{
+    margin: 0 0 15px;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    color: black;
+    background-color: tomato;
+    padding: 10px 25px;
+}
+
+h1,
+strong,
+a{
+    border: 2px solid tomato;
+}
+
+div
+{
+background-color: tomato;
+padding: 10px 20px;
+margin-bottom: 20px;
+}
+
+.two{
+    background-color: aqua;
+    
+}
+#four{
+    background-color: greenyellow;
+}
+.title{
+    font-size: 20px;
+    color: white;
+}
+
+label{
+    display: block;
+}
+
+.one{
+    display: inline-block;
+}
+
+.three{
+    display: inline-block;
+}
+video{
+    width: 500px;
+}
+audio{
+    display: block;
+}
